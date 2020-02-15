@@ -4,7 +4,7 @@ title:  "Removing Files from S3"
 date:   2020-02-15 12:03:36 +0530
 categories: AWS S3
 ---
-## Prerequites
+## Prerequisites
 * `awscli` should be installed.
 * Setup `awscli` for your `IAM` user.
 * Allow S3 admin access for the `IAM` user.
