@@ -1,16 +1,16 @@
-title: 
-author: siddharthasandhu
+title: Siddhartha Sandhu | Blog
+author: Siddhartha Sandhu
 email: sandhusolr@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    Its mostly tech. Maybe I'll add some short stories, if I write
+    a good one.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
+
 plainwhite:
   name: Siddhartha Sandhu
   tagline: Software Engineer.
@@ -24,19 +24,9 @@ plainwhite:
     twitter: SiddharthaSand6
     github:  siddharthasandhu
     linkedIn: in/siddharthasandhu
+    stackoverflow: 2514753
     rss: rss
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
     instagram: siddharthasandhu
-    # linkedin: jekll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
 
     # Mastodon instances
     # mastodon:
@@ -44,11 +34,14 @@ plainwhite:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
+  # navigation:
+  #   - title: Resume
+  #     url: /about.md
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+# header_pages:
+#   - about.md
 
 # Build settings
 theme: plainwhite
